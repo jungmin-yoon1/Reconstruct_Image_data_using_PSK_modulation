@@ -15,6 +15,6 @@
 
 #### Result
 - Original
-
 <img src="https://user-images.githubusercontent.com/58179712/124539926-62719a80-de59-11eb-886f-6a42b3a7c42f.png"  width="500">
+
 - Restored Image
